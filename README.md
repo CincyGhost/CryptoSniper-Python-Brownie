@@ -4,5 +4,5 @@ You'll have to install brownie command: pip install eth-brownie
 Set the network 
 Set the contract address 
 Set the amount 
-Purcheses automatically upon liquidity provision of set token
+Executes trade automatically upon liquidity provision of set token
 
